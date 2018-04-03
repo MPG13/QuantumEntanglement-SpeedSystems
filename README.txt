@@ -13,14 +13,4 @@ avoid running this from your own student login, if possible. Not vital, but an e
 
 To use: 
 
-Password is QUANTUMFREEDOM
-
-To Turn Off:
-
-NetSh Advfirewall set allprofiles state off
-To Turn On:
-
-NetSh Advfirewall set allrprofiles state on
-To check the status of Windows Firewall:
-
-Netsh Advfirewall show allprofiles
+Select option 1, 2, 3 or Q

@@ -1,7 +1,7 @@
 # QuantumEntanglement-SpeedSystems: Faster than light
 ![icon](/icon.png)
-###### Developed and assembled by Mason P
-###### Polished and edited by Micah G
+###### Developed and assembled by Mason Powell
+###### Polished and edited by Micah Gomez
 ---
 __*To avoid getting caught:*__
 - do not save the files on a Lightspeed computer
@@ -11,23 +11,7 @@ __*To avoid getting caught:*__
 ***
 __*To use:*__
 
-_The password to decrypt the program is **QUANTUMFREEDOM**_
+Select option 1, 2, 3 or Q
 
-To Turn Off: 
-- NetSh Advfirewall set allprofiles state off
-
-To Turn On: 
-- NetSh Advfirewall set allrprofiles state on
-
-To check the status of Windows Firewall: 
-- Netsh Advfirewall show allprofiles
 ***
 ![example](https://raw.githubusercontent.com/MPG13/QuantumEntanglement-SpeedSystems/master/quantum.png)
-
-The bend is what allows us to warp limitation, while still maintaining its origin. <sup>A windows computer with lightspeed restrictions software installed is required to use this file.</sup>
-
-The passage is what we use to travel through restriction. <sup>The bat file lets us harness the command line, and access a higher authority.</sup>
-
-The base is to thank for existence. <sup>Lightspeed Wifi is the base level - as in without it, we wouldn't have a restricted wifi to exploit..</sup>
-
-The mouth of the entanglement opens up possibilities, formerly thought to be absurd. <sup>QuantumEntanglement.bat lets is just the beginning of the ride.</sup>
